@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<embed autostart="true" hidden="true" loop="true" src=""></embed>
+
 Personal blog sharing interesting knowledge.
 
 You can use the [editor on GitHub](https://github.com/wanlch1203/wanlch1203.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
