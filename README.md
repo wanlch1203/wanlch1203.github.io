@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<embed autostart="true" hidden="true" loop="true" src=""></embed>
+<embed autostart="true" loop="true" src=""></embed>
 
 Personal blog sharing interesting knowledge.
 
